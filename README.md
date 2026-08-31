@@ -8,6 +8,12 @@
 
 ---
 
+## 📚 Practice & Training
+
+Additional practice exercises and Assiut University Training Sheet solutions are organized in the **[`cppprimer/`](./cppprimer)** directory.
+
+---
+
 ## 📊 Problem Difficulty Breakdown
 
 | Difficulty Rating | Solved Count |

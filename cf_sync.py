@@ -271,7 +271,12 @@ def generate_readme(handle, processed_problems, output_dir, group_by):
     readme.append(f"---")
     readme.append(f"")
 
-    # Statistics Section
+    readme.append(f"## 📚 Practice & Training")
+    readme.append(f"")
+    readme.append(f"Additional practice exercises and Assiut University Training Sheet solutions are organized in the **[`cppprimer/`](./cppprimer)** directory.")
+    readme.append(f"")
+    readme.append(f"---")
+    readme.append(f"")
     readme.append(f"## 📊 Problem Difficulty Breakdown")
     readme.append(f"")
     readme.append(f"| Difficulty Rating | Solved Count |")
