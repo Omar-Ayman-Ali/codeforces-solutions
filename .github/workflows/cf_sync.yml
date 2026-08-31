@@ -1,0 +1,51 @@
+name: Sync Codeforces Solutions
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      force_resync:
+        description: 'Force re-download of all submissions'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run Codeforces Sync
+        env:
+          CF_HANDLE: ${{ vars.CF_HANDLE || 'YOUR_HANDLE' }}
+        run: |
+          FORCE_FLAG=""
+          if [ "${{ github.event.inputs.force_resync }}" = "true" ]; then
+            FORCE_FLAG="--force"
+          fi
+          python cf_sync.py --handle "$CF_HANDLE" --output . --group-by rating $FORCE_FLAG
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-sync latest codeforces solutions [skip ci]"
+          commit_user_name: "Codeforces Sync Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "Codeforces Sync Bot <actions@github.com>"
