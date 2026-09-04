@@ -10,13 +10,25 @@ using namespace std;
 typedef long long ll;
 typedef vector<int> vi;
 
+void solve()
+{
+    int n, m;
+    cin >> n >> m;
+    int arr[n];
+    int freq[m + 1] = {};
+    for (int i = 0; i < n; i++)
+    {
+        cin >> arr[i];
+        freq[arr[i]]++;
+    }
+    for (int i = 1; i <= m; i++)
+        cout << freq[i] << endl;
+}
 int main()
 {
     fast;
 
-    ll n, m;
-    cin >> m >> n;
-    cout << m % 10 + n % 10;
+    solve();
 
     return 0;
 }

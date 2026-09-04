@@ -14,9 +14,11 @@ int main()
 {
     fast;
 
-    ll n, m;
-    cin >> m >> n;
-    cout << m % 10 + n % 10;
+    ll x, y;
+    cin >> x >> y;
+    ll sum1 = x * (x + 1) / 2;
+    ll sum2 = y * (y + 1) / 2;
 
+    cout << sum2 - sum1 + x;
     return 0;
 }

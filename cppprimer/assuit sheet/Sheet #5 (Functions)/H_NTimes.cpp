@@ -14,9 +14,10 @@ int main()
 {
     fast;
 
-    ll n, m;
-    cin >> m >> n;
-    cout << m % 10 + n % 10;
+    int n;
+    cin >> n;
+    for (int i = 0; i < n; i++)
+        cout << "Adham Is The Smartest" << endl;
 
     return 0;
 }
