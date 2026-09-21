@@ -1,16 +1,16 @@
 # 🏆 Codeforces Solutions Repository
 
-> Automated archive of solved Codeforces problems and solutions for **[Itz_Arslan](https://codeforces.com/profile/Itz_Arslan)**.
+> Automated archive of solved Codeforces problems and private group solutions for **[Itz_Arslan](https://codeforces.com/profile/Itz_Arslan)** exported with [CF Vault](https://codeforces.com).
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-41-brightgreen?style=for-the-badge&logo=codeforces)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-256-brightgreen?style=for-the-badge&logo=codeforces)
 ![Profile](https://img.shields.io/badge/Codeforces-Itz_Arslan-blue?style=for-the-badge&logo=codeforces)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-09-04-informational?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-09-21-informational?style=for-the-badge)
 
 ---
 
 ## 📚 Practice & Training
 
-Additional practice exercises and Assiut University Training Sheet solutions are organized in the **[`cppprimer/`](./cppprimer)** directory.
+Additional practice exercises and Assiut University Training Sheet solutions are also organized in the **[`cppprimer/`](./cppprimer)** directory.
 
 ---
 
@@ -18,62 +18,284 @@ Additional practice exercises and Assiut University Training Sheet solutions are
 
 | Difficulty Rating | Solved Count |
 | :--- | :--- |
-| **800** | 32 |
-| **900** | 2 |
-| **1000** | 3 |
-| **1100** | 1 |
-| **1300** | 2 |
-| **1400** | 1 |
+| **3200** | 1 |
+| **2700** | 1 |
+| **2500** | 2 |
+| **2300** | 1 |
+| **2200** | 2 |
+| **2000** | 1 |
+| **1900** | 2 |
+| **1800** | 2 |
+| **1700** | 1 |
+| **1500** | 1 |
+| **1400** | 2 |
+| **1300** | 5 |
+| **1000** | 4 |
+| **900** | 3 |
+| **800** | 39 |
+| *Unrated* | 189 |
 
 ## 🏷️ Top Tags
 
-`implementation (22)` • `math (13)` • `sortings (9)` • `greedy (9)` • `strings (9)` • `brute force (8)` • `number theory (3)` • `data structures (2)` • `constructive algorithms (2)` • `geometry (2)`
+`implementation (35)` • `math (23)` • `greedy (20)` • `brute force (19)` • `sortings (10)` • `strings (7)` • `number theory (6)` • `dp (5)` • `constructive algorithms (5)` • `geometry (4)` • `data structures (2)` • `binary search (2)`
 
 ## 📝 Solved Problems Index
 
-| # | Contest | Index | Problem Name | Rating | Tags | Solution | Date Solved |
+| # | Contest | Index | Problem Name | Rating | Tags | Solution | Runtime |
 | :---: | :---: | :---: | :--- | :---: | :--- | :---: | :---: |
-| 1 | `816` | `B` | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | **1400** | binary search, data structures, implementation | [C++20 (GCC)](Rating-1400/816B-Karen_and_Coffee/solution.cpp) | 2026-09-04 |
-| 2 | `1669` | `B` | [Triple](https://codeforces.com/contest/1669/problem/B) | **800** | implementation, sortings | [C++20 (GCC)](Rating-800/1669B-Triple/solution.cpp) | 2026-09-03 |
-| 3 | `2060` | `A` | [Fibonacciness](https://codeforces.com/contest/2060/problem/A) | **800** | brute force | [C++20 (GCC)](Rating-800/2060A-Fibonacciness/solution.cpp) | 2026-09-01 |
-| 4 | `1676` | `B` | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | **800** | greedy, math, sortings | [C++20 (GCC)](Rating-800/1676B-Equal_Candies/solution.cpp) | 2026-09-01 |
-| 5 | `1585` | `A` | [Life of a Flower](https://codeforces.com/contest/1585/problem/A) | **800** | implementation | [C++20 (GCC)](Rating-800/1585A-Life_of_a_Flower/solution.cpp) | 2026-09-01 |
-| 6 | `1575` | `A` | [Another Sorting Problem](https://codeforces.com/contest/1575/problem/A) | **1100** | data structures, sortings, strings | [C++20 (GCC)](Rating-1100/1575A-Another_Sorting_Problem/solution.cpp) | 2026-09-01 |
-| 7 | `766` | `B` | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | **1000** | constructive algorithms, geometry, greedy, math, number theory, sortings | [C++20 (GCC)](Rating-1000/766B-Mahmoud_and_a_Triangle/solution.cpp) | 2026-09-01 |
-| 8 | `2050` | `D` | [Digital string maximization](https://codeforces.com/contest/2050/problem/D) | **1300** | brute force, greedy, math, strings | [C++20 (GCC)](Rating-1300/2050D-Digital_string_maximization/solution.cpp) | 2026-08-31 |
-| 9 | `1971` | `A` | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | **800** | implementation, sortings | [C++20 (GCC)](Rating-800/1971A-My_First_Sorting_Problem/solution.cpp) | 2026-08-31 |
-| 10 | `1850` | `A` | [To My Critics](https://codeforces.com/contest/1850/problem/A) | **800** | implementation, sortings | [C++20 (GCC)](Rating-800/1850A-To_My_Critics/solution.cpp) | 2026-08-31 |
-| 11 | `1829` | `B` | [Blank Space](https://codeforces.com/contest/1829/problem/B) | **800** | implementation | [C++20 (GCC)](Rating-800/1829B-Blank_Space/solution.cpp) | 2026-08-31 |
-| 12 | `2044` | `B` | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | **800** | implementation, strings | [C++20 (GCC)](Rating-800/2044B-Normal_Problem/solution.cpp) | 2026-08-29 |
-| 13 | `1692` | `A` | [Marathon](https://codeforces.com/contest/1692/problem/A) | **800** | implementation | [C++20 (GCC)](Rating-800/1692A-Marathon/solution.cpp) | 2026-08-29 |
-| 14 | `1742` | `A` | [Sum](https://codeforces.com/contest/1742/problem/A) | **800** | implementation | [C++20 (GCC)](Rating-800/1742A-Sum/solution.cpp) | 2026-08-28 |
-| 15 | `1669` | `A` | [Division?](https://codeforces.com/contest/1669/problem/A) | **800** | implementation | [C++20 (GCC)](Rating-800/1669A-Division/solution.cpp) | 2026-08-28 |
-| 16 | `1064` | `A` | [Make a triangle!](https://codeforces.com/contest/1064/problem/A) | **800** | brute force, geometry, math | [C++20 (GCC)](Rating-800/1064A-Make_a_triangle!/solution.cpp) | 2026-08-28 |
-| 17 | `598` | `A` | [Tricky Sum](https://codeforces.com/contest/598/problem/A) | **900** | math | [C++20 (GCC)](Rating-900/598A-Tricky_Sum/solution.cpp) | 2026-08-28 |
-| 18 | `486` | `A` | [Calculating Function](https://codeforces.com/contest/486/problem/A) | **800** | implementation, math | [C++20 (GCC)](Rating-800/486A-Calculating_Function/solution.cpp) | 2026-08-28 |
-| 19 | `2254` | `B` | [Evanescent](https://codeforces.com/contest/2254/problem/B) | **900** | implementation, strings, two pointers | [C++20 (GCC)](Rating-900/2254B-Evanescent/solution.cpp) | 2026-08-06 |
-| 20 | `2254` | `A` | [Riptide](https://codeforces.com/contest/2254/problem/A) | **800** | implementation, sortings | [C++23 (GCC 14-64, msys2)](Rating-800/2254A-Riptide/solution.cpp) | 2026-08-04 |
-| 21 | `1896` | `A` | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | **800** | sortings | [C++20 (GCC)](Rating-800/1896A-Jagged_Swaps/solution.cpp) | 2026-07-24 |
-| 22 | `1899` | `A` | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | **800** | games, math, number theory | [C++23 (GCC 14-64, msys2)](Rating-800/1899A-Game_with_Integers/solution.cpp) | 2026-07-23 |
-| 23 | `1900` | `A` | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | **800** | constructive algorithms, greedy, implementation, strings | [C++23 (GCC 14-64, msys2)](Rating-800/1900A-Cover_in_Water/solution.cpp) | 2026-07-22 |
-| 24 | `1901` | `A` | [Line Trip](https://codeforces.com/contest/1901/problem/A) | **800** | greedy, math | [C++17 (GCC 7-32)](Rating-800/1901A-Line_Trip/solution.cpp) | 2026-07-08 |
-| 25 | `2241` | `A` | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | **800** | greedy, math, number theory | [C++17 (GCC 7-32)](Rating-800/2241A-Divide_and_Conquer/solution.cpp) | 2026-06-30 |
-| 26 | `617` | `A` | [Elephant](https://codeforces.com/contest/617/problem/A) | **800** | math | [C++17 (GCC 7-32)](Rating-800/617A-Elephant/solution.cpp) | 2026-06-25 |
-| 27 | `271` | `A` | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | **800** | brute force | [C++17 (GCC 7-32)](Rating-800/271A-Beautiful_Year/solution.cpp) | 2026-06-25 |
-| 28 | `110` | `A` | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | **800** | implementation | [C++17 (GCC 7-32)](Rating-800/110A-Nearly_Lucky_Number/solution.cpp) | 2026-06-25 |
-| 29 | `50` | `A` | [Domino piling](https://codeforces.com/contest/50/problem/A) | **800** | greedy, math | [C++17 (GCC 7-32)](Rating-800/50A-Domino_piling/solution.cpp) | 2026-05-04 |
-| 30 | `2227` | `A` | [Koshary](https://codeforces.com/contest/2227/problem/A) | **800** | implementation, math | [C++17 (GCC 7-32)](Rating-800/2227A-Koshary/solution.cpp) | 2026-04-30 |
-| 31 | `1903` | `A` | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | **800** | brute force, greedy, sortings | [C++17 (GCC 7-32)](Rating-800/1903A-Halloumi_Boxes/solution.cpp) | 2026-04-24 |
-| 32 | `118` | `A` | [String Task](https://codeforces.com/contest/118/problem/A) | **1000** | implementation, strings | [C++17 (GCC 7-32)](Rating-1000/118A-String_Task/solution.cpp) | 2026-04-23 |
-| 33 | `1` | `A` | [Theatre Square](https://codeforces.com/contest/1/problem/A) | **1000** | math | [C++17 (GCC 7-32)](Rating-1000/1A-Theatre_Square/solution.cpp) | 2026-04-23 |
-| 34 | `236` | `A` | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | **800** | brute force, implementation, strings | [C++17 (GCC 7-32)](Rating-800/236A-Boy_or_Girl/solution.cpp) | 2026-04-21 |
-| 35 | `282` | `A` | [Bit++](https://codeforces.com/contest/282/problem/A) | **800** | implementation | [C++17 (GCC 7-32)](Rating-800/282A-Bit++/solution.cpp) | 2026-04-14 |
-| 36 | `263` | `A` | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | **800** | implementation | [C++17 (GCC 7-32)](Rating-800/263A-Beautiful_Matrix/solution.cpp) | 2026-04-14 |
-| 37 | `231` | `A` | [Team](https://codeforces.com/contest/231/problem/A) | **800** | brute force, greedy | [C++17 (GCC 7-32)](Rating-800/231A-Team/solution.cpp) | 2026-04-14 |
-| 38 | `158` | `A` | [Next Round](https://codeforces.com/contest/158/problem/A) | **800** | *special, implementation | [C++17 (GCC 7-32)](Rating-800/158A-Next_Round/solution.cpp) | 2026-04-14 |
-| 39 | `112` | `A` | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | **800** | implementation, strings | [C++17 (GCC 7-32)](Rating-800/112A-Petya_and_Strings/solution.cpp) | 2026-04-14 |
-| 40 | `71` | `A` | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | **800** | strings | [C++17 (GCC 7-32)](Rating-800/71A-Way_Too_Long_Words/solution.cpp) | 2026-04-14 |
-| 41 | `25` | `A` | [IQ test](https://codeforces.com/contest/25/problem/A) | **1300** | brute force | [C++17 (GCC 7-32)](Rating-1300/25A-IQ_test/solution.cpp) | 2026-04-12 |
-
----
-*Auto-generated and synced with [Codeforces to GitHub Sync](https://github.com).*
+| 1 | `715039` | `A` | [Easy One](./IEEE - CodeRefine V2.0/715039A-easy-one) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./IEEE - CodeRefine V2.0/715039A-easy-one/solution.cpp) | 31ms |
+| 2 | `715039` | `B` | [Student Network Reconfiguration](./IEEE - CodeRefine V2.0/715039B-student-network-reconfiguration) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./IEEE - CodeRefine V2.0/715039B-student-network-reconfiguration/solution.cpp) | 265ms |
+| 3 | `715039` | `D` | [Telemetry Diagnostics](./IEEE - CodeRefine V2.0/715039D-telemetry-diagnostics) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./IEEE - CodeRefine V2.0/715039D-telemetry-diagnostics/solution.cpp) | 62ms |
+| 4 | `715039` | `E` | [Study Buddy Matcher](./IEEE - CodeRefine V2.0/715039E-study-buddy-matcher) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./IEEE - CodeRefine V2.0/715039E-study-buddy-matcher/solution.cpp) | 156ms |
+| 5 | `665685` | `A` | [Bigz hates CP](./Level 1 Qualification Contest '26/665685A-bigz-hates-cp) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./Level 1 Qualification Contest '26/665685A-bigz-hates-cp/solution.cpp) | 62ms |
+| 6 | `665685` | `D` | [DNA](./Level 1 Qualification Contest '26/665685D-dna) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./Level 1 Qualification Contest '26/665685D-dna/solution.cpp) | 46ms |
+| 7 | `656521` | `A` | [Cubic Queries](./acmASCIS Level 1 Training '26/656521A-cubic-queries) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/656521A-cubic-queries/solution.cpp) | 171ms |
+| 8 | `656521` | `D` | [Tk Tk Tk Tk...](./acmASCIS Level 1 Training '26/656521D-tk-tk-tk-tk) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/656521D-tk-tk-tk-tk/solution.cpp) | 31ms |
+| 9 | `654157` | `A` | [They eat and deny](./acmASCIS Level 1 Training '26/654157A-they-eat-and-deny) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/654157A-they-eat-and-deny/solution.cpp) | 202ms |
+| 10 | `654157` | `B` | [Division by zero](./acmASCIS Level 1 Training '26/654157B-division-by-zero) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/654157B-division-by-zero/solution.cpp) | 62ms |
+| 11 | `651191` | `A` | [The Lost Number](./acmASCIS Level 1 Training '26/651191A-the-lost-number) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651191A-the-lost-number/solution.cpp) | 77ms |
+| 12 | `651191` | `B` | [The Diagonals Game](./acmASCIS Level 1 Training '26/651191B-the-diagonals-game) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651191B-the-diagonals-game/solution.cpp) | 937ms |
+| 13 | `651191` | `C` | [Bored Vasya](./acmASCIS Level 1 Training '26/651191C-bored-vasya) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651191C-bored-vasya/solution.cpp) | 77ms |
+| 14 | `651191` | `D` | [Clean up the Mess](./acmASCIS Level 1 Training '26/651191D-clean-up-the-mess) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651191D-clean-up-the-mess/solution.cpp) | 859ms |
+| 15 | `651191` | `E` | [Serve the Dishes](./acmASCIS Level 1 Training '26/651191E-serve-the-dishes) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651191E-serve-the-dishes/solution.cpp) | 46ms |
+| 16 | `651191` | `F` | [Test #1](./acmASCIS Level 1 Training '26/651191F-test-1) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651191F-test-1/solution.cpp) | 77ms |
+| 17 | `651191` | `G` | [Heimerdinger and The Treasure](./acmASCIS Level 1 Training '26/651191G-heimerdinger-and-the-treasure) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651191G-heimerdinger-and-the-treasure/solution.cpp) | 46ms |
+| 18 | `651191` | `H` | [Sort the Array](./acmASCIS Level 1 Training '26/651191H-sort-the-array) | **1300** | implementation, sortings | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651191H-sort-the-array/solution.cpp) | 265ms |
+| 19 | `651191` | `J` | [Beautiful Array](./acmASCIS Level 1 Training '26/651191J-beautiful-array) | **1900** | brute force, data structures, divide and conquer | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/651191J-beautiful-array/solution.cpp) | 93ms |
+| 20 | `651191` | `K` | [Stones](./acmASCIS Level 1 Training '26/651191K-stones) | **800** | brute force, greedy, math | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/651191K-stones/solution.cpp) | 46ms |
+| 21 | `651191` | `M` | [I Wanna Be the Guy](./acmASCIS Level 1 Training '26/651191M-i-wanna-be-the-guy) | **800** | greedy, implementation | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/651191M-i-wanna-be-the-guy/solution.cpp) | 31ms |
+| 22 | `651191` | `O` | [Sushi buddies](./acmASCIS Level 1 Training '26/651191O-sushi-buddies) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651191O-sushi-buddies/solution.cpp) | 46ms |
+| 23 | `651191` | `P` | [One Word](./acmASCIS Level 1 Training '26/651191P-one-word) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/651191P-one-word/solution.cpp) | 46ms |
+| 24 | `651190` | `A` | [Arrays](./acmASCIS Level 1 Training '26/651190A-arrays) | **900** | sortings | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651190A-arrays/solution.cpp) | 374ms |
+| 25 | `651190` | `B` | [Vamoose](./acmASCIS Level 1 Training '26/651190B-vamoose) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651190B-vamoose/solution.cpp) | 218ms |
+| 26 | `651190` | `C` | [Finally, some rest.](./acmASCIS Level 1 Training '26/651190C-finally-some-rest) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/651190C-finally-some-rest/solution.cpp) | 78ms |
+| 27 | `651190` | `D` | [Polycarp and Sums of Subsequences](./acmASCIS Level 1 Training '26/651190D-polycarp-and-sums-of-subsequences) | **800** | math, sortings | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/651190D-polycarp-and-sums-of-subsequences/solution.cpp) | 62ms |
+| 28 | `651190` | `E` | [I Love Atcoder](./acmASCIS Level 1 Training '26/651190E-i-love-atcoder) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/651190E-i-love-atcoder/solution.cpp) | 78ms |
+| 29 | `651187` | `A` | [Cool Array](./acmASCIS Level 1 Training '26/651187A-cool-array) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651187A-cool-array/solution.cpp) | 139ms |
+| 30 | `651187` | `B` | [War](./acmASCIS Level 1 Training '26/651187B-war) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651187B-war/solution.cpp) | 109ms |
+| 31 | `651187` | `C` | [Vice Versa](./acmASCIS Level 1 Training '26/651187C-vice-versa) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651187C-vice-versa/solution.cpp) | 61ms |
+| 32 | `651187` | `D` | [Lucky Number Checker](./acmASCIS Level 1 Training '26/651187D-lucky-number-checker) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651187D-lucky-number-checker/solution.cpp) | 62ms |
+| 33 | `651187` | `E` | [Pascal's Triangle](./acmASCIS Level 1 Training '26/651187E-pascal-s-triangle) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651187E-pascal-s-triangle/solution.cpp) | 46ms |
+| 34 | `651085` | `A` | [Odd Hater (Easy Version)](./acmASCIS Level 1 Training '26/651085A-odd-hater-easy-version) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651085A-odd-hater-easy-version/solution.cpp) | 108ms |
+| 35 | `651085` | `B` | [Odd Hater (Easy Easy Version)](./acmASCIS Level 1 Training '26/651085B-odd-hater-easy-easy-version) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/651085B-odd-hater-easy-easy-version/solution.cpp) | 140ms |
+| 36 | `651085` | `C` | [Not Again!](./acmASCIS Level 1 Training '26/651085C-not-again) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651085C-not-again/solution.cpp) | 171ms |
+| 37 | `651085` | `D` | [Do you know how I hate the rain ?](./acmASCIS Level 1 Training '26/651085D-do-you-know-how-i-hate-the-rain) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/651085D-do-you-know-how-i-hate-the-rain/solution.cpp) | 31ms |
+| 38 | `651085` | `E` | [Bridge](./acmASCIS Level 1 Training '26/651085E-bridge) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/651085E-bridge/solution.cpp) | 46ms |
+| 39 | `650565` | `A` | [1st Digit of the Factorial](./acmASCIS Level 1 Training '26/650565A-1st-digit-of-the-factorial) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/650565A-1st-digit-of-the-factorial/solution.cpp) | 46ms |
+| 40 | `650565` | `B` | [Safe](./acmASCIS Level 1 Training '26/650565B-safe) | **2200** | brute force | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/650565B-safe/solution.cpp) | 46ms |
+| 41 | `650565` | `D` | [The divisible divider](./acmASCIS Level 1 Training '26/650565D-the-divisible-divider) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/650565D-the-divisible-divider/solution.cpp) | 62ms |
+| 42 | `650565` | `E` | [Civil registry](./acmASCIS Level 1 Training '26/650565E-civil-registry) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/650565E-civil-registry/solution.cpp) | 328ms |
+| 43 | `645756` | `A` | [Best Mentor](./acmASCIS Level 1 Training '26/645756A-best-mentor) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756A-best-mentor/solution.cpp) | 93ms |
+| 44 | `645756` | `B` | [Sorting Sequence](./acmASCIS Level 1 Training '26/645756B-sorting-sequence) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756B-sorting-sequence/solution.cpp) | 3250ms |
+| 45 | `645756` | `C` | [Martin Mystery](./acmASCIS Level 1 Training '26/645756C-martin-mystery) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756C-martin-mystery/solution.cpp) | 187ms |
+| 46 | `645756` | `D` | [Following Directions](./acmASCIS Level 1 Training '26/645756D-following-directions) | **800** | geometry, implementation | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756D-following-directions/solution.cpp) | 46ms |
+| 47 | `645756` | `E` | [Ramadan in Berland](./acmASCIS Level 1 Training '26/645756E-ramadan-in-berland) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756E-ramadan-in-berland/solution.cpp) | 484ms |
+| 48 | `645756` | `F` | [Jumping Mario](./acmASCIS Level 1 Training '26/645756F-jumping-mario) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756F-jumping-mario/solution.cpp) | 46ms |
+| 49 | `645756` | `G` | [SoundCloud](./acmASCIS Level 1 Training '26/645756G-soundcloud) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756G-soundcloud/solution.cpp) | 61ms |
+| 50 | `645756` | `H` | [Businessman](./acmASCIS Level 1 Training '26/645756H-businessman) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756H-businessman/solution.cpp) | 296ms |
+| 51 | `645756` | `I` | [Harry the Curious](./acmASCIS Level 1 Training '26/645756I-harry-the-curious) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756I-harry-the-curious/solution.cpp) | 46ms |
+| 52 | `645756` | `J` | [Cards](./acmASCIS Level 1 Training '26/645756J-cards) | *Unrated* | constructive algorithms, implementation | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/645756J-cards/solution.cpp) | 31ms |
+| 53 | `645756` | `K` | [Not Quite Latin Square](./acmASCIS Level 1 Training '26/645756K-not-quite-latin-square) | **800** | bitmasks, brute force, implementation | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/645756K-not-quite-latin-square/solution.cpp) | 46ms |
+| 54 | `645756` | `L` | [2D grid](./acmASCIS Level 1 Training '26/645756L-2d-grid) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756L-2d-grid/solution.cpp) | 46ms |
+| 55 | `645756` | `M` | [3N + 1](./acmASCIS Level 1 Training '26/645756M-3n-1) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756M-3n-1/solution.cpp) | 31ms |
+| 56 | `645756` | `N` | [The Fight of Odds and Evens](./acmASCIS Level 1 Training '26/645756N-the-fight-of-odds-and-evens) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756N-the-fight-of-odds-and-evens/solution.cpp) | 31ms |
+| 57 | `645756` | `O` | [Peter's Birthday](./acmASCIS Level 1 Training '26/645756O-peter-s-birthday) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/645756O-peter-s-birthday/solution.cpp) | 593ms |
+| 58 | `645756` | `P` | [Just A Girl](./acmASCIS Level 1 Training '26/645756P-just-a-girl) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645756P-just-a-girl/solution.cpp) | 31ms |
+| 59 | `645754` | `A` | [Struggling CapMan](./acmASCIS Level 1 Training '26/645754A-struggling-capman) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645754A-struggling-capman/solution.cpp) | 233ms |
+| 60 | `645754` | `B` | [Contest Performance](./acmASCIS Level 1 Training '26/645754B-contest-performance) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645754B-contest-performance/solution.cpp) | 187ms |
+| 61 | `645754` | `C` | [Recruitment](./acmASCIS Level 1 Training '26/645754C-recruitment) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645754C-recruitment/solution.cpp) | 46ms |
+| 62 | `645754` | `D` | [Sushi for Two](./acmASCIS Level 1 Training '26/645754D-sushi-for-two) | **900** | binary search, greedy, implementation | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645754D-sushi-for-two/solution.cpp) | 109ms |
+| 63 | `645754` | `E` | [Hard Equation](./acmASCIS Level 1 Training '26/645754E-hard-equation) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645754E-hard-equation/solution.cpp) | 3625ms |
+| 64 | `645751` | `A` | [Yan and Maths](./acmASCIS Level 1 Training '26/645751A-yan-and-maths) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645751A-yan-and-maths/solution.cpp) | 61ms |
+| 65 | `645751` | `B` | [Bokloz and Numbers](./acmASCIS Level 1 Training '26/645751B-bokloz-and-numbers) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645751B-bokloz-and-numbers/solution.cpp) | 328ms |
+| 66 | `645751` | `C` | [Counting Gifts](./acmASCIS Level 1 Training '26/645751C-counting-gifts) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645751C-counting-gifts/solution.cpp) | 62ms |
+| 67 | `645751` | `D` | [World War III](./acmASCIS Level 1 Training '26/645751D-world-war-iii) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645751D-world-war-iii/solution.cpp) | 328ms |
+| 68 | `645751` | `E` | [I my number](./acmASCIS Level 1 Training '26/645751E-i-my-number) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645751E-i-my-number/solution.cpp) | 1046ms |
+| 69 | `645509` | `A` | [Covalent Bonds](./acmASCIS Level 1 Training '26/645509A-covalent-bonds) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645509A-covalent-bonds/solution.cpp) | 46ms |
+| 70 | `645509` | `B` | [Bob and YoussefProb](./acmASCIS Level 1 Training '26/645509B-bob-and-youssefprob) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645509B-bob-and-youssefprob/solution.cpp) | 46ms |
+| 71 | `645509` | `C` | [Peter's trial](./acmASCIS Level 1 Training '26/645509C-peter-s-trial) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645509C-peter-s-trial/solution.cpp) | 62ms |
+| 72 | `645509` | `D` | [Div.1 Z](./acmASCIS Level 1 Training '26/645509D-div-1-z) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645509D-div-1-z/solution.cpp) | 46ms |
+| 73 | `645509` | `E` | [Habduction](./acmASCIS Level 1 Training '26/645509E-habduction) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/645509E-habduction/solution.cpp) | 46ms |
+| 74 | `643344` | `A` | [Almost rectangle](./acmASCIS Level 1 Training '26/643344A-almost-rectangle) | **800** | implementation | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/643344A-almost-rectangle/solution.cpp) | 46ms |
+| 75 | `643344` | `B` | [Sticks](./acmASCIS Level 1 Training '26/643344B-sticks) | *Unrated* | untagged | [`C++17 (GCC 7-32)`](./acmASCIS Level 1 Training '26/643344B-sticks/solution.cpp) | 46ms |
+| 76 | `643344` | `C` | [Soldier and Bananas](./acmASCIS Level 1 Training '26/643344C-soldier-and-bananas) | **800** | brute force, implementation, math | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344C-soldier-and-bananas/solution.cpp) | 62ms |
+| 77 | `643344` | `D` | [Up Or Down?](./acmASCIS Level 1 Training '26/643344D-up-or-down) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344D-up-or-down/solution.cpp) | 31ms |
+| 78 | `643344` | `E` | [Shapes](./acmASCIS Level 1 Training '26/643344E-shapes) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344E-shapes/solution.cpp) | 46ms |
+| 79 | `643344` | `F` | [Nada The Chess Master](./acmASCIS Level 1 Training '26/643344F-nada-the-chess-master) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344F-nada-the-chess-master/solution.cpp) | 46ms |
+| 80 | `643344` | `G` | [Fair Enough](./acmASCIS Level 1 Training '26/643344G-fair-enough) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344G-fair-enough/solution.cpp) | 31ms |
+| 81 | `643344` | `H` | [Stones](./acmASCIS Level 1 Training '26/643344H-stones) | **800** | brute force, greedy, math | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344H-stones/solution.cpp) | 46ms |
+| 82 | `643344` | `I` | [Divisibility Game](./acmASCIS Level 1 Training '26/643344I-divisibility-game) | **1700** | brute force, games, greedy | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344I-divisibility-game/solution.cpp) | 46ms |
+| 83 | `643344` | `J` | [Unknown lines](./acmASCIS Level 1 Training '26/643344J-unknown-lines) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344J-unknown-lines/solution.cpp) | 31ms |
+| 84 | `643344` | `K` | [The Magic Land](./acmASCIS Level 1 Training '26/643344K-the-magic-land) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344K-the-magic-land/solution.cpp) | 31ms |
+| 85 | `643344` | `L` | [Guess what?](./acmASCIS Level 1 Training '26/643344L-guess-what) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344L-guess-what/solution.cpp) | 46ms |
+| 86 | `643344` | `M` | [Onmi-man & Malak](./acmASCIS Level 1 Training '26/643344M-onmi-man-malak) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344M-onmi-man-malak/solution.cpp) | 46ms |
+| 87 | `643344` | `N` | [Again Twenty Five!](./acmASCIS Level 1 Training '26/643344N-again-twenty-five) | **800** | number theory | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344N-again-twenty-five/solution.cpp) | 46ms |
+| 88 | `643344` | `O` | [Climbing Forever](./acmASCIS Level 1 Training '26/643344O-climbing-forever) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344O-climbing-forever/solution.cpp) | 46ms |
+| 89 | `643344` | `P` | [GG EZ](./acmASCIS Level 1 Training '26/643344P-gg-ez) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643344P-gg-ez/solution.cpp) | 31ms |
+| 90 | `643343` | `A` | [Watermelon](./acmASCIS Level 1 Training '26/643343A-watermelon) | **800** | brute force, math | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643343A-watermelon/solution.cpp) | 92ms |
+| 91 | `643343` | `B` | [Money, Money, Money!](./acmASCIS Level 1 Training '26/643343B-money-money-money) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643343B-money-money-money/solution.cpp) | 62ms |
+| 92 | `643343` | `C` | [Can you sort them?](./acmASCIS Level 1 Training '26/643343C-can-you-sort-them) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643343C-can-you-sort-them/solution.cpp) | 62ms |
+| 93 | `643343` | `D` | [Boo and The Equation](./acmASCIS Level 1 Training '26/643343D-boo-and-the-equation) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643343D-boo-and-the-equation/solution.cpp) | 62ms |
+| 94 | `643343` | `E` | [Alibaba and the Cave](./acmASCIS Level 1 Training '26/643343E-alibaba-and-the-cave) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643343E-alibaba-and-the-cave/solution.cpp) | 62ms |
+| 95 | `643343` | `F` | [Peter's Note](./acmASCIS Level 1 Training '26/643343F-peter-s-note) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643343F-peter-s-note/solution.cpp) | 46ms |
+| 96 | `643342` | `A` | [Ace or Bits](./acmASCIS Level 1 Training '26/643342A-ace-or-bits) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643342A-ace-or-bits/solution.cpp) | 62ms |
+| 97 | `643342` | `B` | [The Perfectionist](./acmASCIS Level 1 Training '26/643342B-the-perfectionist) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643342B-the-perfectionist/solution.cpp) | 77ms |
+| 98 | `643342` | `C` | [Motel Night-in](./acmASCIS Level 1 Training '26/643342C-motel-night-in) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643342C-motel-night-in/solution.cpp) | 61ms |
+| 99 | `643342` | `D` | [Music Chairs](./acmASCIS Level 1 Training '26/643342D-music-chairs) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643342D-music-chairs/solution.cpp) | 46ms |
+| 100 | `643342` | `E` | [Mount Boberest](./acmASCIS Level 1 Training '26/643342E-mount-boberest) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./acmASCIS Level 1 Training '26/643342E-mount-boberest/solution.cpp) | 46ms |
+| 101 | `605482` | `B` | [Queue ID](./Level Zero 2025 - Public/605482B-queue-id) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/605482B-queue-id/solution.cpp) | 46ms |
+| 102 | `605482` | `C` | [Deque Easy version](./Level Zero 2025 - Public/605482C-deque-easy-version) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/605482C-deque-easy-version/solution.cpp) | 62ms |
+| 103 | `605482` | `D` | [Regular Bracket Sequence (Easy Version)](./Level Zero 2025 - Public/605482D-regular-bracket-sequence-easy-version) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/605482D-regular-bracket-sequence-easy-version/solution.cpp) | 62ms |
+| 104 | `605482` | `E` | [Regular Bracket Sequence](./Level Zero 2025 - Public/605482E-regular-bracket-sequence) | **1400** | greedy | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/605482E-regular-bracket-sequence/solution.cpp) | 92ms |
+| 105 | `605482` | `F` | [Regular Bracket Sequence (Hard Version)](./Level Zero 2025 - Public/605482F-regular-bracket-sequence-hard-version) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/605482F-regular-bracket-sequence-hard-version/solution.cpp) | 46ms |
+| 106 | `604006` | `A` | [Really..!](./Level Zero 2025 - Public/604006A-really) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/604006A-really/solution.cpp) | 62ms |
+| 107 | `604006` | `B` | [Equal Candies](./Level Zero 2025 - Public/604006B-equal-candies) | **800** | greedy, math, sortings | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/604006B-equal-candies/solution.cpp) | 31ms |
+| 108 | `604006` | `C` | [Life of a Flower](./Level Zero 2025 - Public/604006C-life-of-a-flower) | **800** | implementation | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/604006C-life-of-a-flower/solution.cpp) | 31ms |
+| 109 | `604006` | `D` | [Mahmoud and a Triangle](./Level Zero 2025 - Public/604006D-mahmoud-and-a-triangle) | **1000** | constructive algorithms, geometry, greedy | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/604006D-mahmoud-and-a-triangle/solution.cpp) | 78ms |
+| 110 | `604006` | `E` | [Give them the maximum](./Level Zero 2025 - Public/604006E-give-them-the-maximum) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/604006E-give-them-the-maximum/solution.cpp) | 281ms |
+| 111 | `604006` | `F` | [Who is The Fool](./Level Zero 2025 - Public/604006F-who-is-the-fool) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/604006F-who-is-the-fool/solution.cpp) | 31ms |
+| 112 | `604006` | `G` | [One and Two](./Level Zero 2025 - Public/604006G-one-and-two) | **800** | brute force, implementation, math | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/604006G-one-and-two/solution.cpp) | 62ms |
+| 113 | `604006` | `H` | [X-Sum](./Level Zero 2025 - Public/604006H-x-sum) | **1000** | brute force, greedy, implementation | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/604006H-x-sum/solution.cpp) | 46ms |
+| 114 | `604006` | `I` | [Hamed's Subarrays](./Level Zero 2025 - Public/604006I-hamed-s-subarrays) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/604006I-hamed-s-subarrays/solution.cpp) | 62ms |
+| 115 | `603848` | `A` | [Is It Frequency](./Level Zero 2025 - Public/603848A-is-it-frequency) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/603848A-is-it-frequency/solution.cpp) | 31ms |
+| 116 | `603848` | `B` | [Count](./Level Zero 2025 - Public/603848B-count) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/603848B-count/solution.cpp) | 62ms |
+| 117 | `603848` | `C` | [Triple](./Level Zero 2025 - Public/603848C-triple) | **3200** | fft, math | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/603848C-triple/solution.cpp) | 1000ms |
+| 118 | `603848` | `D` | [Array (Easy Version)](./Level Zero 2025 - Public/603848D-array-easy-version) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/603848D-array-easy-version/solution.cpp) | 46ms |
+| 119 | `603848` | `E` | [Array (Hard Version)](./Level Zero 2025 - Public/603848E-array-hard-version) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/603848E-array-hard-version/solution.cpp) | 46ms |
+| 120 | `603848` | `G` | [Stupid Sensors](./Level Zero 2025 - Public/603848G-stupid-sensors) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/603848G-stupid-sensors/solution.cpp) | 218ms |
+| 121 | `603848` | `H` | [Restaurant Customers](./Level Zero 2025 - Public/603848H-restaurant-customers) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/603848H-restaurant-customers/solution.cpp) | 93ms |
+| 122 | `603848` | `I` | [Max 2D Box](./Level Zero 2025 - Public/603848I-max-2d-box) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/603848I-max-2d-box/solution.cpp) | 171ms |
+| 123 | `596853` | `A` | [Free Accepted](./Level Zero 2025 - Public/596853A-free-accepted) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/596853A-free-accepted/solution.cpp) | 31ms |
+| 124 | `596853` | `B` | [My First Sorting Problem](./Level Zero 2025 - Public/596853B-my-first-sorting-problem) | **800** | implementation, sortings | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/596853B-my-first-sorting-problem/solution.cpp) | 15ms |
+| 125 | `596853` | `C` | [The Fool Again](./Level Zero 2025 - Public/596853C-the-fool-again) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/596853C-the-fool-again/solution.cpp) | 31ms |
+| 126 | `596853` | `D` | [Missed Number](./Level Zero 2025 - Public/596853D-missed-number) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/596853D-missed-number/solution.cpp) | 15ms |
+| 127 | `596853` | `E` | [Mewwwwwwwwo](./Level Zero 2025 - Public/596853E-mewwwwwwwwo) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/596853E-mewwwwwwwwo/solution.cpp) | 31ms |
+| 128 | `596853` | `F` | [Pizza For Sameh](./Level Zero 2025 - Public/596853F-pizza-for-sameh) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/596853F-pizza-for-sameh/solution.cpp) | 62ms |
+| 129 | `596853` | `G` | [My Last Sorting Problem](./Level Zero 2025 - Public/596853G-my-last-sorting-problem) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/596853G-my-last-sorting-problem/solution.cpp) | 140ms |
+| 130 | `594798` | `A` | [Winner!](./Level Zero 2025 - Public/594798A-winner) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/594798A-winner/solution.cpp) | 46ms |
+| 131 | `594798` | `B` | [Normal Problem](./Level Zero 2025 - Public/594798B-normal-problem) | **800** | implementation, strings | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/594798B-normal-problem/solution.cpp) | 15ms |
+| 132 | `594798` | `C` | [Splitting The Array](./Level Zero 2025 - Public/594798C-splitting-the-array) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/594798C-splitting-the-array/solution.cpp) | 78ms |
+| 133 | `594798` | `D` | [Rotate Array](./Level Zero 2025 - Public/594798D-rotate-array) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/594798D-rotate-array/solution.cpp) | 78ms |
+| 134 | `594798` | `E` | [Ziad's String Challenge](./Level Zero 2025 - Public/594798E-ziad-s-string-challenge) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/594798E-ziad-s-string-challenge/solution.cpp) | 46ms |
+| 135 | `594798` | `F` | [Triple Inverse](./Level Zero 2025 - Public/594798F-triple-inverse) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/594798F-triple-inverse/solution.cpp) | 203ms |
+| 136 | `594798` | `G` | [The Enchanted Tower](./Level Zero 2025 - Public/594798G-the-enchanted-tower) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/594798G-the-enchanted-tower/solution.cpp) | 31ms |
+| 137 | `594798` | `H` | [El-Genena Password](./Level Zero 2025 - Public/594798H-el-genena-password) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/594798H-el-genena-password/solution.cpp) | 31ms |
+| 138 | `593212` | `A` | [The Fool](./Level Zero 2025 - Public/593212A-the-fool) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/593212A-the-fool/solution.cpp) | 31ms |
+| 139 | `593212` | `B` | [Is Valid Password](./Level Zero 2025 - Public/593212B-is-valid-password) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/593212B-is-valid-password/solution.cpp) | 31ms |
+| 140 | `593212` | `C` | [A Peace Of Cake Problem](./Level Zero 2025 - Public/593212C-a-peace-of-cake-problem) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/593212C-a-peace-of-cake-problem/solution.cpp) | 31ms |
+| 141 | `593212` | `D` | [Race](./Level Zero 2025 - Public/593212D-race) | **2300** | brute force, implementation, two pointers | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/593212D-race/solution.cpp) | 46ms |
+| 142 | `593212` | `E` | [Maaaaaaaaaaaaaaaaaath](./Level Zero 2025 - Public/593212E-maaaaaaaaaaaaaaaaaath) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/593212E-maaaaaaaaaaaaaaaaaath/solution.cpp) | 46ms |
+| 143 | `593212` | `F` | [Hit It](./Level Zero 2025 - Public/593212F-hit-it) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/593212F-hit-it/solution.cpp) | 46ms |
+| 144 | `593212` | `G` | [Cucurella In El-Genena](./Level Zero 2025 - Public/593212G-cucurella-in-el-genena) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/593212G-cucurella-in-el-genena/solution.cpp) | 46ms |
+| 145 | `591913` | `A` | [Hello World!](./Level Zero 2025 - Public/591913A-hello-world) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913A-hello-world/solution.cpp) | 0ms |
+| 146 | `591913` | `B` | [I Hate Maths](./Level Zero 2025 - Public/591913B-i-hate-maths) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913B-i-hate-maths/solution.cpp) | 46ms |
+| 147 | `591913` | `C` | [Area of a Circle](./Level Zero 2025 - Public/591913C-area-of-a-circle) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913C-area-of-a-circle/solution.cpp) | 31ms |
+| 148 | `591913` | `D` | [Repression](./Level Zero 2025 - Public/591913D-repression) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913D-repression/solution.cpp) | 46ms |
+| 149 | `591913` | `E` | [Difference](./Level Zero 2025 - Public/591913E-difference) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913E-difference/solution.cpp) | 31ms |
+| 150 | `591913` | `G1` | [Strange Summation](./Level Zero 2025 - Public/591913G1-strange-summation) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913G1-strange-summation/solution.cpp) | 31ms |
+| 151 | `591913` | `G2` | [Intersection](./Level Zero 2025 - Public/591913G2-intersection) | **2000** | implementation, math | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913G2-intersection/solution.cpp) | 31ms |
+| 152 | `591913` | `H` | [Division?](./Level Zero 2025 - Public/591913H-division) | **800** | implementation | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913H-division/solution.cpp) | 31ms |
+| 153 | `591913` | `J` | [Make a triangle!](./Level Zero 2025 - Public/591913J-make-a-triangle) | **800** | brute force, geometry, math | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913J-make-a-triangle/solution.cpp) | 46ms |
+| 154 | `591913` | `K` | [Multiplication Table](./Level Zero 2025 - Public/591913K-multiplication-table) | **1300** | implementation | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913K-multiplication-table/solution.cpp) | 31ms |
+| 155 | `591913` | `L1` | [Summation from 1 to N](./Level Zero 2025 - Public/591913L1-summation-from-1-to-n) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913L1-summation-from-1-to-n/solution.cpp) | 46ms |
+| 156 | `591913` | `L2` | [Draw it.](./Level Zero 2025 - Public/591913L2-draw-it) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913L2-draw-it/solution.cpp) | 46ms |
+| 157 | `591913` | `O` | [Sum](./Level Zero 2025 - Public/591913O-sum) | **1500** | math | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913O-sum/solution.cpp) | 31ms |
+| 158 | `591913` | `P` | [Average 2](./Level Zero 2025 - Public/591913P-average-2) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913P-average-2/solution.cpp) | 31ms |
+| 159 | `591913` | `Q` | [Calculating Function](./Level Zero 2025 - Public/591913Q-calculating-function) | **800** | implementation, math | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913Q-calculating-function/solution.cpp) | 31ms |
+| 160 | `591913` | `R` | [Shampoo](./Level Zero 2025 - Public/591913R-shampoo) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913R-shampoo/solution.cpp) | 46ms |
+| 161 | `591913` | `S` | [Tricky Sum](./Level Zero 2025 - Public/591913S-tricky-sum) | **900** | math | [`C++23 (GCC 14-64, msys2)`](./Level Zero 2025 - Public/591913S-tricky-sum/solution.cpp) | 46ms |
+| 162 | `438784` | `A` | [Second Max Element](./contest-438784/438784A-second-max-element) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./contest-438784/438784A-second-max-element/solution.cpp) | 140ms |
+| 163 | `433597` | `A` | [Highest Y](./contest-433597/433597A-highest-y) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./contest-433597/433597A-highest-y/solution.cpp) | 46ms |
+| 164 | `326907` | `A` | [Timon and Pumbaa](./Assiut University Training - Newcomers/326907A-timon-and-pumbaa) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326907A-timon-and-pumbaa/solution.cpp) | 46ms |
+| 165 | `326907` | `B` | [Drawing `X'](./Assiut University Training - Newcomers/326907B-drawing-x) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326907B-drawing-x/solution.cpp) | 31ms |
+| 166 | `326907` | `C` | [Finding Minimums](./Assiut University Training - Newcomers/326907C-finding-minimums) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326907C-finding-minimums/solution.cpp) | 62ms |
+| 167 | `326907` | `D` | [Range Sum](./Assiut University Training - Newcomers/326907D-range-sum) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326907D-range-sum/solution.cpp) | 93ms |
+| 168 | `326907` | `E` | [Hady Rides the Train](./Assiut University Training - Newcomers/326907E-hady-rides-the-train) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326907E-hady-rides-the-train/solution.cpp) | 46ms |
+| 169 | `326907` | `F` | [Break Number](./Assiut University Training - Newcomers/326907F-break-number) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326907F-break-number/solution.cpp) | 78ms |
+| 170 | `326907` | `H` | [Simple Mod](./Assiut University Training - Newcomers/326907H-simple-mod) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326907H-simple-mod/solution.cpp) | 31ms |
+| 171 | `326175` | `A` | [Winter Sale](./Assiut University Training - Newcomers/326175A-winter-sale) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326175A-winter-sale/solution.cpp) | 46ms |
+| 172 | `326175` | `B` | [Memo and Momo](./Assiut University Training - Newcomers/326175B-memo-and-momo) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326175B-memo-and-momo/solution.cpp) | 46ms |
+| 173 | `326175` | `C` | [Next Alphabet](./Assiut University Training - Newcomers/326175C-next-alphabet) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326175C-next-alphabet/solution.cpp) | 31ms |
+| 174 | `326175` | `D` | [Ali Baba and Puzzles](./Assiut University Training - Newcomers/326175D-ali-baba-and-puzzles) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326175D-ali-baba-and-puzzles/solution.cpp) | 46ms |
+| 175 | `326175` | `E` | [Interval Sweep](./Assiut University Training - Newcomers/326175E-interval-sweep) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326175E-interval-sweep/solution.cpp) | 46ms |
+| 176 | `326175` | `F` | [Adding Bits](./Assiut University Training - Newcomers/326175F-adding-bits) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326175F-adding-bits/solution.cpp) | 46ms |
+| 177 | `326175` | `G` | [Katryoshka](./Assiut University Training - Newcomers/326175G-katryoshka) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326175G-katryoshka/solution.cpp) | 46ms |
+| 178 | `326175` | `H` | [Data Type Guessing](./Assiut University Training - Newcomers/326175H-data-type-guessing) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326175H-data-type-guessing/solution.cpp) | 78ms |
+| 179 | `326175` | `I` | [Lucky Numbers](./Assiut University Training - Newcomers/326175I-lucky-numbers) | **1800** | dp, greedy | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/326175I-lucky-numbers/solution.cpp) | 46ms |
+| 180 | `219432` | `A` | [1 to N](./Assiut University Training - Newcomers/219432A-1-to-n) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432A-1-to-n/solution.cpp) | 46ms |
+| 181 | `219432` | `B` | [Even Numbers](./Assiut University Training - Newcomers/219432B-even-numbers) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432B-even-numbers/solution.cpp) | 46ms |
+| 182 | `219432` | `C` | [Even, Odd, Positive and Negative](./Assiut University Training - Newcomers/219432C-even-odd-positive-and-negative) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432C-even-odd-positive-and-negative/solution.cpp) | 62ms |
+| 183 | `219432` | `D` | [Fixed Password](./Assiut University Training - Newcomers/219432D-fixed-password) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432D-fixed-password/solution.cpp) | 46ms |
+| 184 | `219432` | `E` | [Max](./Assiut University Training - Newcomers/219432E-max) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432E-max/solution.cpp) | 46ms |
+| 185 | `219432` | `F` | [Multiplication table](./Assiut University Training - Newcomers/219432F-multiplication-table) | **1300** | implementation | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432F-multiplication-table/solution.cpp) | 31ms |
+| 186 | `219432` | `G` | [Factorial](./Assiut University Training - Newcomers/219432G-factorial) | **1300** | *special, implementation | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432G-factorial/solution.cpp) | 31ms |
+| 187 | `219432` | `H` | [One Prime](./Assiut University Training - Newcomers/219432H-one-prime) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432H-one-prime/solution.cpp) | 46ms |
+| 188 | `219432` | `I` | [Palindrome](./Assiut University Training - Newcomers/219432I-palindrome) | **1900** | constructive algorithms, dp | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432I-palindrome/solution.cpp) | 46ms |
+| 189 | `219432` | `J` | [Primes from 1 to n](./Assiut University Training - Newcomers/219432J-primes-from-1-to-n) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432J-primes-from-1-to-n/solution.cpp) | 46ms |
+| 190 | `219432` | `K` | [Divisors](./Assiut University Training - Newcomers/219432K-divisors) | **2200** | brute force, dfs and similar, implementation | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432K-divisors/solution.cpp) | 46ms |
+| 191 | `219432` | `L` | [GCD](./Assiut University Training - Newcomers/219432L-gcd) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432L-gcd/solution.cpp) | 46ms |
+| 192 | `219432` | `M` | [Lucky Numbers](./Assiut University Training - Newcomers/219432M-lucky-numbers) | **1800** | dp, greedy | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432M-lucky-numbers/solution.cpp) | 46ms |
+| 193 | `219432` | `N` | [Numbers Histogram](./Assiut University Training - Newcomers/219432N-numbers-histogram) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432N-numbers-histogram/solution.cpp) | 46ms |
+| 194 | `219432` | `O` | [Pyramid](./Assiut University Training - Newcomers/219432O-pyramid) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432O-pyramid/solution.cpp) | 62ms |
+| 195 | `219432` | `P` | [Shape1](./Assiut University Training - Newcomers/219432P-shape1) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432P-shape1/solution.cpp) | 46ms |
+| 196 | `219432` | `Q` | [Digits](./Assiut University Training - Newcomers/219432Q-digits) | **2500** | brute force, implementation, math | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432Q-digits/solution.cpp) | 46ms |
+| 197 | `219432` | `R` | [Sequence of Numbers and Sum](./Assiut University Training - Newcomers/219432R-sequence-of-numbers-and-sum) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432R-sequence-of-numbers-and-sum/solution.cpp) | 31ms |
+| 198 | `219432` | `S` | [Sum of Consecutive Odd Numbers](./Assiut University Training - Newcomers/219432S-sum-of-consecutive-odd-numbers) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432S-sum-of-consecutive-odd-numbers/solution.cpp) | 46ms |
+| 199 | `219432` | `T` | [Shape2](./Assiut University Training - Newcomers/219432T-shape2) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432T-shape2/solution.cpp) | 46ms |
+| 200 | `219432` | `U` | [Some Sums](./Assiut University Training - Newcomers/219432U-some-sums) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432U-some-sums/solution.cpp) | 31ms |
+| 201 | `219432` | `V` | [PUM](./Assiut University Training - Newcomers/219432V-pum) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432V-pum/solution.cpp) | 31ms |
+| 202 | `219432` | `W` | [Shape3](./Assiut University Training - Newcomers/219432W-shape3) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432W-shape3/solution.cpp) | 46ms |
+| 203 | `219432` | `X` | [Convert To Decimal 2](./Assiut University Training - Newcomers/219432X-convert-to-decimal-2) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432X-convert-to-decimal-2/solution.cpp) | 31ms |
+| 204 | `219432` | `Y` | [Easy Fibonacci](./Assiut University Training - Newcomers/219432Y-easy-fibonacci) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432Y-easy-fibonacci/solution.cpp) | 46ms |
+| 205 | `219432` | `Z` | [Three Numbers](./Assiut University Training - Newcomers/219432Z-three-numbers) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219432Z-three-numbers/solution.cpp) | 46ms |
+| 206 | `219158` | `A` | [Say Hello With C++](./Assiut University Training - Newcomers/219158A-say-hello-with-c) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158A-say-hello-with-c/solution.cpp) | 31ms |
+| 207 | `219158` | `B` | [Basic Data Types](./Assiut University Training - Newcomers/219158B-basic-data-types) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158B-basic-data-types/solution.cpp) | 46ms |
+| 208 | `219158` | `C` | [Simple Calculator](./Assiut University Training - Newcomers/219158C-simple-calculator) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158C-simple-calculator/solution.cpp) | 31ms |
+| 209 | `219158` | `D` | [Difference](./Assiut University Training - Newcomers/219158D-difference) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158D-difference/solution.cpp) | 46ms |
+| 210 | `219158` | `E` | [Area of a Circle](./Assiut University Training - Newcomers/219158E-area-of-a-circle) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158E-area-of-a-circle/solution.cpp) | 62ms |
+| 211 | `219158` | `F` | [Digits Summation](./Assiut University Training - Newcomers/219158F-digits-summation) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158F-digits-summation/solution.cpp) | 46ms |
+| 212 | `219158` | `G` | [Summation from 1 to N](./Assiut University Training - Newcomers/219158G-summation-from-1-to-n) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158G-summation-from-1-to-n/solution.cpp) | 46ms |
+| 213 | `219158` | `H` | [Two numbers](./Assiut University Training - Newcomers/219158H-two-numbers) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158H-two-numbers/solution.cpp) | 31ms |
+| 214 | `219158` | `I` | [Welcome for you with Conditions](./Assiut University Training - Newcomers/219158I-welcome-for-you-with-conditions) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158I-welcome-for-you-with-conditions/solution.cpp) | 46ms |
+| 215 | `219158` | `J` | [Multiples](./Assiut University Training - Newcomers/219158J-multiples) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158J-multiples/solution.cpp) | 46ms |
+| 216 | `219158` | `K` | [Max and Min](./Assiut University Training - Newcomers/219158K-max-and-min) | **2500** | geometry | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158K-max-and-min/solution.cpp) | 46ms |
+| 217 | `219158` | `L` | [The Brothers](./Assiut University Training - Newcomers/219158L-the-brothers) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158L-the-brothers/solution.cpp) | 46ms |
+| 218 | `219158` | `M` | [Capital or Small or Digit](./Assiut University Training - Newcomers/219158M-capital-or-small-or-digit) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158M-capital-or-small-or-digit/solution.cpp) | 46ms |
+| 219 | `219158` | `N` | [Char](./Assiut University Training - Newcomers/219158N-char) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158N-char/solution.cpp) | 46ms |
+| 220 | `219158` | `O` | [Calculator](./Assiut University Training - Newcomers/219158O-calculator) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158O-calculator/solution.cpp) | 62ms |
+| 221 | `219158` | `P` | [First digit !](./Assiut University Training - Newcomers/219158P-first-digit) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158P-first-digit/solution.cpp) | 46ms |
+| 222 | `219158` | `Q` | [Coordinates of a Point](./Assiut University Training - Newcomers/219158Q-coordinates-of-a-point) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158Q-coordinates-of-a-point/solution.cpp) | 46ms |
+| 223 | `219158` | `R` | [Age in Days](./Assiut University Training - Newcomers/219158R-age-in-days) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158R-age-in-days/solution.cpp) | 46ms |
+| 224 | `219158` | `S` | [Interval](./Assiut University Training - Newcomers/219158S-interval) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158S-interval/solution.cpp) | 46ms |
+| 225 | `219158` | `T` | [Sort Numbers](./Assiut University Training - Newcomers/219158T-sort-numbers) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158T-sort-numbers/solution.cpp) | 46ms |
+| 226 | `219158` | `U` | [Float or int](./Assiut University Training - Newcomers/219158U-float-or-int) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158U-float-or-int/solution.cpp) | 46ms |
+| 227 | `219158` | `V` | [Comparison](./Assiut University Training - Newcomers/219158V-comparison) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158V-comparison/solution.cpp) | 31ms |
+| 228 | `219158` | `W` | [Mathematical Expression](./Assiut University Training - Newcomers/219158W-mathematical-expression) | **2700** | constructive algorithms, dp, greedy | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158W-mathematical-expression/solution.cpp) | 46ms |
+| 229 | `219158` | `X` | [Two intervals](./Assiut University Training - Newcomers/219158X-two-intervals) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158X-two-intervals/solution.cpp) | 46ms |
+| 230 | `219158` | `Y` | [The last 2 digits](./Assiut University Training - Newcomers/219158Y-the-last-2-digits) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158Y-the-last-2-digits/solution.cpp) | 46ms |
+| 231 | `219158` | `Z` | [Hard Compare](./Assiut University Training - Newcomers/219158Z-hard-compare) | *Unrated* | untagged | [`C++23 (GCC 14-64, msys2)`](./Assiut University Training - Newcomers/219158Z-hard-compare/solution.cpp) | 62ms |
+| 232 | `2254` | `A` | [Riptide](./contest-2254/2254A-riptide) | **800** | implementation, sortings | [`C++23 (GCC 14-64, msys2)`](./contest-2254/2254A-riptide/solution.cpp) | 31ms |
+| 233 | `2241` | `A` | [Divide and Conquer](./contest-2241/2241A-divide-and-conquer) | **800** | greedy, math, number theory | [`C++17 (GCC 7-32)`](./contest-2241/2241A-divide-and-conquer/solution.cpp) | 31ms |
+| 234 | `2227` | `A` | [Koshary](./contest-2227/2227A-koshary) | **800** | implementation, math | [`C++17 (GCC 7-32)`](./contest-2227/2227A-koshary/solution.cpp) | 31ms |
+| 235 | `2044` | `B` | [Normal Problem](./contest-2044/2044B-normal-problem) | **800** | implementation, strings | [`C++23 (GCC 14-64, msys2)`](./contest-2044/2044B-normal-problem/solution.cpp) | 31ms |
+| 236 | `1971` | `A` | [My First Sorting Problem](./contest-1971/1971A-my-first-sorting-problem) | **800** | implementation, sortings | [`C++23 (GCC 14-64, msys2)`](./contest-1971/1971A-my-first-sorting-problem/solution.cpp) | 31ms |
+| 237 | `1903` | `A` | [Halloumi Boxes](./contest-1903/1903A-halloumi-boxes) | **800** | brute force, greedy, sortings | [`C++17 (GCC 7-32)`](./contest-1903/1903A-halloumi-boxes/solution.cpp) | 46ms |
+| 238 | `1901` | `A` | [Line Trip](./contest-1901/1901A-line-trip) | **800** | greedy, math | [`C++17 (GCC 7-32)`](./contest-1901/1901A-line-trip/solution.cpp) | 62ms |
+| 239 | `1900` | `A` | [Cover in Water](./contest-1900/1900A-cover-in-water) | **800** | constructive algorithms, greedy, implementation | [`C++23 (GCC 14-64, msys2)`](./contest-1900/1900A-cover-in-water/solution.cpp) | 31ms |
+| 240 | `1899` | `A` | [Game with Integers](./contest-1899/1899A-game-with-integers) | **800** | games, math, number theory | [`C++23 (GCC 14-64, msys2)`](./contest-1899/1899A-game-with-integers/solution.cpp) | 31ms |
+| 241 | `1676` | `B` | [Equal Candies](./contest-1676/1676B-equal-candies) | **800** | greedy, math, sortings | [`C++23 (GCC 14-64, msys2)`](./contest-1676/1676B-equal-candies/solution.cpp) | 46ms |
+| 242 | `816` | `B` | [Karen and Coffee](./contest-816/816B-karen-and-coffee) | **1400** | binary search, data structures, implementation | [`C++23 (GCC 14-64, msys2)`](./contest-816/816B-karen-and-coffee/solution.cpp) | 218ms |
+| 243 | `617` | `A` | [Elephant](./contest-617/617A-elephant) | **800** | math | [`C++17 (GCC 7-32)`](./contest-617/617A-elephant/solution.cpp) | 46ms |
+| 244 | `282` | `A` | [Bit++](./contest-282/282A-bit) | **800** | implementation | [`C++17 (GCC 7-32)`](./contest-282/282A-bit/solution.cpp) | 46ms |
+| 245 | `271` | `A` | [Beautiful Year](./contest-271/271A-beautiful-year) | **800** | brute force | [`C++17 (GCC 7-32)`](./contest-271/271A-beautiful-year/solution.cpp) | 62ms |
+| 246 | `263` | `A` | [Beautiful Matrix](./contest-263/263A-beautiful-matrix) | **800** | implementation | [`C++17 (GCC 7-32)`](./contest-263/263A-beautiful-matrix/solution.cpp) | 62ms |
+| 247 | `236` | `A` | [Boy or Girl](./contest-236/236A-boy-or-girl) | **800** | brute force, implementation, strings | [`C++17 (GCC 7-32)`](./contest-236/236A-boy-or-girl/solution.cpp) | 92ms |
+| 248 | `231` | `A` | [Team](./contest-231/231A-team) | **800** | brute force, greedy | [`C++17 (GCC 7-32)`](./contest-231/231A-team/solution.cpp) | 124ms |
+| 249 | `158` | `A` | [Next Round](./contest-158/158A-next-round) | **800** | *special, implementation | [`C++17 (GCC 7-32)`](./contest-158/158A-next-round/solution.cpp) | 92ms |
+| 250 | `118` | `A` | [String Task](./contest-118/118A-string-task) | **1000** | implementation, strings | [`C++17 (GCC 7-32)`](./contest-118/118A-string-task/solution.cpp) | 92ms |
+| 251 | `112` | `A` | [Petya and Strings](./contest-112/112A-petya-and-strings) | **800** | implementation, strings | [`C++17 (GCC 7-32)`](./contest-112/112A-petya-and-strings/solution.cpp) | 92ms |
+| 252 | `110` | `A` | [Nearly Lucky Number](./contest-110/110A-nearly-lucky-number) | **800** | implementation | [`C++17 (GCC 7-32)`](./contest-110/110A-nearly-lucky-number/solution.cpp) | 92ms |
+| 253 | `71` | `A` | [Way Too Long Words](./contest-71/71A-way-too-long-words) | **800** | strings | [`C++17 (GCC 7-32)`](./contest-71/71A-way-too-long-words/solution.cpp) | 46ms |
+| 254 | `50` | `A` | [Domino piling](./contest-50/50A-domino-piling) | **800** | greedy, math | [`C++17 (GCC 7-32)`](./contest-50/50A-domino-piling/solution.cpp) | 92ms |
+| 255 | `25` | `A` | [IQ test](./contest-25/25A-iq-test) | **1300** | brute force | [`C++17 (GCC 7-32)`](./contest-25/25A-iq-test/solution.cpp) | 62ms |
+| 256 | `1` | `A` | [Theatre Square](./contest-1/1A-theatre-square) | **1000** | math | [`C++17 (GCC 7-32)`](./contest-1/1A-theatre-square/solution.cpp) | 46ms |
