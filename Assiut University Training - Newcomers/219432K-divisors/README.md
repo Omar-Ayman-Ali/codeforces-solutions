@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K)
 - **Submission ID:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387721448](https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387721448)
-- **Rating:** 2200
-- **Tags:** brute force, dfs and similar, implementation, number theory
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 46 ms
 - **Memory Consumed:** 0 KB

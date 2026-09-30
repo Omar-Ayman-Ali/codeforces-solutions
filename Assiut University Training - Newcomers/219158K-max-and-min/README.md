@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)
 - **Submission ID:** [https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/385631715](https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/385631715)
-- **Rating:** 2500
-- **Tags:** geometry
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 46 ms
 - **Memory Consumed:** 100 KB

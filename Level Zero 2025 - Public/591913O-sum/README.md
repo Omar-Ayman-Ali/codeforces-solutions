@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/vtfsyP8jkN/contest/591913/problem/O](https://codeforces.com/group/vtfsyP8jkN/contest/591913/problem/O)
 - **Submission ID:** [https://codeforces.com/group/vtfsyP8jkN/contest/591913/submission/388679301](https://codeforces.com/group/vtfsyP8jkN/contest/591913/submission/388679301)
-- **Rating:** 1500
-- **Tags:** math
+- **Rating:** 800
+- **Tags:** implementation
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 31 ms
 - **Memory Consumed:** 0 KB

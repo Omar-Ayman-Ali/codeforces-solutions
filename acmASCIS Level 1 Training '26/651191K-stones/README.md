@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/tTJnpKpFzH/contest/651191/problem/K](https://codeforces.com/group/tTJnpKpFzH/contest/651191/problem/K)
 - **Submission ID:** [https://codeforces.com/group/tTJnpKpFzH/contest/651191/submission/360380719](https://codeforces.com/group/tTJnpKpFzH/contest/651191/submission/360380719)
-- **Rating:** 800
-- **Tags:** brute force, greedy, math
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++17 (GCC 7-32)
 - **Time Consumed:** 46 ms
 - **Memory Consumed:** 100 KB

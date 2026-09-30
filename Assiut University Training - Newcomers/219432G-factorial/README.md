@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)
 - **Submission ID:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387691079](https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387691079)
-- **Rating:** 1300
-- **Tags:** *special, implementation
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 31 ms
 - **Memory Consumed:** 100 KB

@@ -257,13 +257,8 @@
     "contestId": 651191,
     "index": "J",
     "name": "Beautiful Array",
-    "rating": 1900,
     "tags": [
-      "brute force",
-      "data structures",
-      "divide and conquer",
-      "dp",
-      "greedy"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/tTJnpKpFzH/contest/651191/problem/J",
     "submissionId": 360479981,
@@ -276,11 +271,8 @@
     "contestId": 651191,
     "index": "K",
     "name": "Stones",
-    "rating": 800,
     "tags": [
-      "brute force",
-      "greedy",
-      "math"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/tTJnpKpFzH/contest/651191/problem/K",
     "submissionId": 360380719,
@@ -564,9 +556,8 @@
     "contestId": 650565,
     "index": "B",
     "name": "Safe",
-    "rating": 2200,
     "tags": [
-      "brute force"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/tTJnpKpFzH/contest/650565/problem/B",
     "submissionId": 357018088,
@@ -1050,9 +1041,8 @@
     "contestId": 643344,
     "index": "A",
     "name": "Almost rectangle",
-    "rating": 800,
     "tags": [
-      "implementation"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/tTJnpKpFzH/contest/643344/problem/A",
     "submissionId": 373505488,
@@ -1152,11 +1142,8 @@
     "contestId": 643344,
     "index": "H",
     "name": "Stones",
-    "rating": 800,
     "tags": [
-      "brute force",
-      "greedy",
-      "math"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/tTJnpKpFzH/contest/643344/problem/H",
     "submissionId": 355219872,
@@ -1169,12 +1156,8 @@
     "contestId": 643344,
     "index": "I",
     "name": "Divisibility Game",
-    "rating": 1700,
     "tags": [
-      "brute force",
-      "games",
-      "greedy",
-      "number theory"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/tTJnpKpFzH/contest/643344/problem/I",
     "submissionId": 355220670,
@@ -1683,10 +1666,10 @@
     "contestId": 603848,
     "index": "C",
     "name": "Triple",
-    "rating": 3200,
+    "rating": 800,
     "tags": [
-      "fft",
-      "math"
+      "implementation",
+      "sortings"
     ],
     "url": "https://codeforces.com/group/vtfsyP8jkN/contest/603848/problem/C",
     "submissionId": 389304820,
@@ -2025,11 +2008,9 @@
     "contestId": 593212,
     "index": "D",
     "name": "Race",
-    "rating": 2300,
+    "rating": 800,
     "tags": [
-      "brute force",
-      "implementation",
-      "two pointers"
+      "implementation"
     ],
     "url": "https://codeforces.com/group/vtfsyP8jkN/contest/593212/problem/D",
     "submissionId": 388764781,
@@ -2168,10 +2149,8 @@
     "contestId": 591913,
     "index": "G2",
     "name": "Intersection",
-    "rating": 2000,
     "tags": [
-      "implementation",
-      "math"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/vtfsyP8jkN/contest/591913/problem/G2",
     "submissionId": 388677508,
@@ -2216,9 +2195,8 @@
     "contestId": 591913,
     "index": "K",
     "name": "Multiplication Table",
-    "rating": 1300,
     "tags": [
-      "implementation"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/vtfsyP8jkN/contest/591913/problem/K",
     "submissionId": 388678583,
@@ -2259,9 +2237,9 @@
     "contestId": 591913,
     "index": "O",
     "name": "Sum",
-    "rating": 1500,
+    "rating": 800,
     "tags": [
-      "math"
+      "implementation"
     ],
     "url": "https://codeforces.com/group/vtfsyP8jkN/contest/591913/problem/O",
     "submissionId": 388679301,
@@ -2571,10 +2549,8 @@
     "contestId": 326175,
     "index": "I",
     "name": "Lucky Numbers",
-    "rating": 1800,
     "tags": [
-      "dp",
-      "greedy"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I",
     "submissionId": 387677740,
@@ -2657,9 +2633,8 @@
     "contestId": 219432,
     "index": "F",
     "name": "Multiplication table",
-    "rating": 1300,
     "tags": [
-      "implementation"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F",
     "submissionId": 387690028,
@@ -2672,10 +2647,8 @@
     "contestId": 219432,
     "index": "G",
     "name": "Factorial",
-    "rating": 1300,
     "tags": [
-      "*special",
-      "implementation"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G",
     "submissionId": 387691079,
@@ -2702,10 +2675,8 @@
     "contestId": 219432,
     "index": "I",
     "name": "Palindrome",
-    "rating": 1900,
     "tags": [
-      "constructive algorithms",
-      "dp"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I",
     "submissionId": 387719879,
@@ -2732,12 +2703,8 @@
     "contestId": 219432,
     "index": "K",
     "name": "Divisors",
-    "rating": 2200,
     "tags": [
-      "brute force",
-      "dfs and similar",
-      "implementation",
-      "number theory"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K",
     "submissionId": 387721448,
@@ -2764,10 +2731,8 @@
     "contestId": 219432,
     "index": "M",
     "name": "Lucky Numbers",
-    "rating": 1800,
     "tags": [
-      "dp",
-      "greedy"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M",
     "submissionId": 387881985,
@@ -2822,11 +2787,8 @@
     "contestId": 219432,
     "index": "Q",
     "name": "Digits",
-    "rating": 2500,
     "tags": [
-      "brute force",
-      "implementation",
-      "math"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q",
     "submissionId": 387884771,
@@ -3105,9 +3067,8 @@
     "contestId": 219158,
     "index": "K",
     "name": "Max and Min",
-    "rating": 2500,
     "tags": [
-      "geometry"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K",
     "submissionId": 385631715,
@@ -3274,11 +3235,8 @@
     "contestId": 219158,
     "index": "W",
     "name": "Mathematical Expression",
-    "rating": 2700,
     "tags": [
-      "constructive algorithms",
-      "dp",
-      "greedy"
+      "untagged"
     ],
     "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W",
     "submissionId": 386145554,

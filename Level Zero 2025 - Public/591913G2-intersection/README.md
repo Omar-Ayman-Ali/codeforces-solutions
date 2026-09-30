@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/vtfsyP8jkN/contest/591913/problem/G2](https://codeforces.com/group/vtfsyP8jkN/contest/591913/problem/G2)
 - **Submission ID:** [https://codeforces.com/group/vtfsyP8jkN/contest/591913/submission/388677508](https://codeforces.com/group/vtfsyP8jkN/contest/591913/submission/388677508)
-- **Rating:** 2000
-- **Tags:** implementation, math
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 31 ms
 - **Memory Consumed:** 100 KB

@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/tTJnpKpFzH/contest/651191/problem/J](https://codeforces.com/group/tTJnpKpFzH/contest/651191/problem/J)
 - **Submission ID:** [https://codeforces.com/group/tTJnpKpFzH/contest/651191/submission/360479981](https://codeforces.com/group/tTJnpKpFzH/contest/651191/submission/360479981)
-- **Rating:** 1900
-- **Tags:** brute force, data structures, divide and conquer, dp, greedy
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++17 (GCC 7-32)
 - **Time Consumed:** 93 ms
 - **Memory Consumed:** 0 KB

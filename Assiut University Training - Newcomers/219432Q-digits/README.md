@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)
 - **Submission ID:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387884771](https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387884771)
-- **Rating:** 2500
-- **Tags:** brute force, implementation, math
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 46 ms
 - **Memory Consumed:** 100 KB

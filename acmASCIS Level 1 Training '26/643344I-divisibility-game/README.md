@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/tTJnpKpFzH/contest/643344/problem/I](https://codeforces.com/group/tTJnpKpFzH/contest/643344/problem/I)
 - **Submission ID:** [https://codeforces.com/group/tTJnpKpFzH/contest/643344/submission/355220670](https://codeforces.com/group/tTJnpKpFzH/contest/643344/submission/355220670)
-- **Rating:** 1700
-- **Tags:** brute force, games, greedy, number theory
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 46 ms
 - **Memory Consumed:** 0 KB

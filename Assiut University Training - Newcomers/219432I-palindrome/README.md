@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I)
 - **Submission ID:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387719879](https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387719879)
-- **Rating:** 1900
-- **Tags:** constructive algorithms, dp
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 46 ms
 - **Memory Consumed:** 0 KB

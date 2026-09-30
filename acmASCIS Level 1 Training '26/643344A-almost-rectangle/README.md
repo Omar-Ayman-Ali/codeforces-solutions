@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/tTJnpKpFzH/contest/643344/problem/A](https://codeforces.com/group/tTJnpKpFzH/contest/643344/problem/A)
 - **Submission ID:** [https://codeforces.com/group/tTJnpKpFzH/contest/643344/submission/373505488](https://codeforces.com/group/tTJnpKpFzH/contest/643344/submission/373505488)
-- **Rating:** 800
-- **Tags:** implementation
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++17 (GCC 7-32)
 - **Time Consumed:** 46 ms
 - **Memory Consumed:** 100 KB

@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M)
 - **Submission ID:** [https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387881985](https://codeforces.com/group/MWSDmqGsZm/contest/219432/submission/387881985)
-- **Rating:** 1800
-- **Tags:** dp, greedy
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 46 ms
 - **Memory Consumed:** 100 KB

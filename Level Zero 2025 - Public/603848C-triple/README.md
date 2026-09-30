@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/vtfsyP8jkN/contest/603848/problem/C](https://codeforces.com/group/vtfsyP8jkN/contest/603848/problem/C)
 - **Submission ID:** [https://codeforces.com/group/vtfsyP8jkN/contest/603848/submission/389304820](https://codeforces.com/group/vtfsyP8jkN/contest/603848/submission/389304820)
-- **Rating:** 3200
-- **Tags:** fft, math
+- **Rating:** 800
+- **Tags:** implementation, sortings
 - **Language:** C++23 (GCC 14-64, msys2)
 - **Time Consumed:** 1000 ms
 - **Memory Consumed:** 1000 KB

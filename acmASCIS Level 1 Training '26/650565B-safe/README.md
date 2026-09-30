@@ -2,8 +2,8 @@
 
 - **Problem Link:** [https://codeforces.com/group/tTJnpKpFzH/contest/650565/problem/B](https://codeforces.com/group/tTJnpKpFzH/contest/650565/problem/B)
 - **Submission ID:** [https://codeforces.com/group/tTJnpKpFzH/contest/650565/submission/357018088](https://codeforces.com/group/tTJnpKpFzH/contest/650565/submission/357018088)
-- **Rating:** 2200
-- **Tags:** brute force
+- **Rating:** Unrated
+- **Tags:** untagged
 - **Language:** C++17 (GCC 7-32)
 - **Time Consumed:** 46 ms
 - **Memory Consumed:** 100 KB
